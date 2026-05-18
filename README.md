@@ -20,7 +20,7 @@ This project is an interactive sales dashboard created using Power BI to analyze
 - GitHub
 
 ## Dashboard Preview
-
+Sales dashboard.png
 
 ## Author
 Hisana Jannath P.K
